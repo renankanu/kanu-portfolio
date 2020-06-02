@@ -1,6 +1,6 @@
 import React from 'react';
 import { Helmet } from 'react-helmet'
-import {Title, Wrapper} from './style'
+import {Title, Wrapper} from './styles'
 import GlobalStyle from './global-style'
 
 export default function Home() {
