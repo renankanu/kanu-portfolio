@@ -1,19 +1,16 @@
 import React from 'react';
 import { Helmet } from 'react-helmet'
-import {Title, Wrapper} from './styles'
-import GlobalStyle from './global-style'
 
-export default function Home() {
+import { Layout } from '../components/common/Layout/index';
+
+export default () => {
   return (
-    <>
-      <GlobalStyle/>
-      <Wrapper>
-      <Title>Renan Kanu</Title>
-      </Wrapper>
+    <Layout>
+      <div>Teste</div>
       <Helmet>
         <meta charSet="utf-8" />
         <title>{`<RenanKanu>`}</title>
       </Helmet>
-    </>
+    </Layout>
   )
 }
