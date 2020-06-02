@@ -22,7 +22,7 @@ export const SkillsWrapper = styled.div`
 export const Details = styled.div`
   flex: 1;
   padding-left: 2rem;
-
+  margin-left: 26px;
   @media (max-width: 960px) {
     padding-left: unset;
     width: 100%;
