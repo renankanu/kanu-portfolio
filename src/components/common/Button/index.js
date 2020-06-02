@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Button = styled.button`
   cursor: pointer;
-  border-radius: 3px;
+  border-radius: 20px;
   padding: 0.7rem 2.5rem;
   border: none;
   -webkit-appearance: none;
@@ -13,7 +13,7 @@ export const Button = styled.button`
   -ms-user-select: none;
   user-select: none;
   color: #fff;
-  background: #0074d9;
+  background: #FE4557;
 
   &:focus {
     outline: none;

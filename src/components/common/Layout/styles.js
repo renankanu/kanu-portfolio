@@ -602,8 +602,9 @@ export const Global = createGlobalStyle`
     body {
       margin: 0;
       padding: 0;
+      background-color: #2E2D48;
       font-family: 'Roboto', Helvetica, sans-serif;
-      color: hsla(0, 0%, 0%, 0.8);
+      color: #FFF;
       font-weight: normal;
       word-wrap: break-word;
       font-kerning: normal;
