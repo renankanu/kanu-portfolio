@@ -13,25 +13,25 @@ export const Contact = () => {
       <Stats>
         <Links>
           <a key={1} href={'https://www.instagram.com/renankanu/'} target="_blank" rel="noopener noreferrer">
-            <img width="24" src={insta} alt={name} />
+            <img width="24" src={insta}/>
           </a>
         </Links>
         <Spacer />
         <Links>
           <a key={2} href={'https://www.linkedin.com/in/renansantosbr/'} target="_blank" rel="noopener noreferrer">
-            <img width="24" src={linkedin} alt={name} />
+            <img width="24" src={linkedin}/>
           </a>
         </Links>
         <Spacer />
           <Links>
             <a key={2} href={'https://www.facebook.com/renan.santos.92123'} target="_blank" rel="noopener noreferrer">
-              <img width="24" src={facebook} alt={name} />
+              <img width="24" src={facebook}/>
             </a>
           </Links>
         <Spacer />
         <Links>
             <a key={2} href={'https://github.com/renankanu'} target="_blank" rel="noopener noreferrer">
-              <img width="24" src={github} alt={name} />
+              <img width="24" src={github}/>
             </a>
           </Links>
       </Stats>
