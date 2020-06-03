@@ -23,6 +23,7 @@ export const Details = styled.div`
   flex: 1;
   padding-left: 2rem;
   margin-left: 26px;
+  margin-right: 26px;
   @media (max-width: 960px) {
     padding-left: unset;
     width: 100%;
@@ -36,7 +37,6 @@ export const Details = styled.div`
 
   p {
     margin-bottom: 2.5rem;
-    font-size: 14pt;
     font-weight: normal;
     line-height: 1.3;
     color: #F9F9F9;
