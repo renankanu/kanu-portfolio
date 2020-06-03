@@ -14,7 +14,7 @@ export const Skills = () => (
       <Details>
         <h1>Um pouco sobre mim  </h1>
         <p>
-        Olá, meu nome é Renan Santos de Oliveira moro em Cianorte-PR, jogador de Rugby por paixão. Sou
+        Olá, meu nome é Renan e moro em Cianorte-PR, jogador de Rugby por paixão. Sou
         formado em Análise e Desenvolvimento de Sistemas. Comecei na programação
         em 2016 como desenvolvedor Android Nativo com Java, e atuava no
         Back End em Spring Boot. No final do primeiro semestre de 2018 comecei

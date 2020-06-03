@@ -5,6 +5,7 @@ import { Layout } from '../components/common/Layout/index';
 import { Intro } from '../components/landing/Intro/index';
 import { Projects } from '../components/landing/Projects/index';
 import { Skills } from '../components/landing/Skills/index';
+import { Contact } from '../components/landing/Contact/index';
 
 export default () => {
   return (
@@ -12,6 +13,7 @@ export default () => {
       <Intro />
       <Skills />
       <Projects />
+      <Contact />
       <Helmet>
         <meta charSet="utf-8" />
         <title>{`<RenanKanu>`}</title>

@@ -10,3 +10,8 @@ export const Wrapper = styled.div`
     color: #FFFFFF;
   }
 `;
+
+export const MyName = styled.div`
+  font-size: 24px;
+  color: #FE4557
+`;

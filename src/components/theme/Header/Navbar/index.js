@@ -2,11 +2,15 @@ import React from 'react';
 import { Link } from 'gatsby';
 import { Container } from '../../../common/Container/index';
 import NavbarLinks from '../NavbarLinks';
-import { Wrapper } from './styles';
+import { Wrapper, MyName } from './styles';
 
 const Navbar = () => (
   <Wrapper as={Container}>
-    <Link to="/">Renan Kanu</Link>
+    <Link to="/">
+      <MyName>
+        Renan Kanu
+      </MyName>
+    </Link>
     <NavbarLinks desktop />
   </Wrapper>
 );
