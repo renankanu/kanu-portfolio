@@ -18,6 +18,7 @@ export default () => {
       <BlackLives />
       <Helmet>
         <meta charSet="utf-8" />
+        <meta name="Description" content="Put your description here."/>
         <title>{`<RenanKanu>`}</title>
       </Helmet>
     </Layout>
