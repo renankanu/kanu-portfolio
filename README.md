@@ -7,5 +7,3 @@
 <h1 align="center">
   Gatsby's Portfolio by Renan Kanu
 </h1>
-
-## 💫 Deploy
